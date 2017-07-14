@@ -322,6 +322,7 @@ header.top h3:after {
   display: -ms-flexbox;
   display: flex;
   height: 90vh;
+  margin-left: 3em !important;
   max-width: 1500px;
   margin: 5vh auto 0;
   -webkit-perspective: 1000px;
