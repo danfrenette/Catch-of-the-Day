@@ -109,6 +109,7 @@ class App extends React.Component {
           addFish={this.addFish}
           updateFish={this.updateFish}
           removeFish={this.removeFish}
+          storeId={this.props.params.storeId}
         />
       </div>
     )
